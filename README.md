@@ -3,10 +3,13 @@
 -Codes will be in C++ an python with following constraints, that I'll try to match as much as possible:
 
 -C++
+
 -1/Generic code (templates etc...)
 -2/Use of stl features (algorithms etc...)
 -3/If needed, use of non-standard libraries (Eigen etc...)
+-4/Use of modern c++ features, starrting from C++11
 
 -Python
+
 -1/Use loop as little as possible (vectorization)
 -2/Use of standard library (numpy, linalg etc...)
