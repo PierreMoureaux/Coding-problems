@@ -17,5 +17,5 @@ I/Daily coding problems
 -1/Use loop as little as possible (vectorization)
 -2/Use of standard library (numpy, linalg etc...)
 
-II/Quant interview coding problems
+II/Quant coding problems
 List from https://student.cs.uwaterloo.ca/~w3zhuo/Public_Notes/ACTSC446/%5BMark%20Joshi%5DQuant%20Job%20Interview%20Questions%20And%20Answers.pdf and https://usermanual.wiki/Document/Practical20Guide20To20Quantitative20Finance20Interview.604244935.pdf
